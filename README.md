@@ -8,7 +8,7 @@
 
 O **Context Flow** é uma ferramenta de apoio à engenharia de software projetada para a era da IA. Seu objetivo é organizar a documentação técnica de um projeto de forma hierárquica e modular, garantindo que cada funcionalidade tenha sua especificação consolidada **antes** de qualquer linha de código ser gerada.
 
-O fluxo de trabalho segue a metodologia *Feature-Driven Specification*: o engenheiro cria um **Projeto**, dentro dele cadastra as **Funcionalidades**, e para cada funcionalidade preenche cinco camadas de documentação — Objetivo de Negócio, Regras de Negócio, Contrato de API, Casos de Teste e Regras do Framework. Somente após a aprovação formal de cada funcionalidade, o sistema libera a geração de um pacote `.zip` contendo artefatos Markdown estruturados e prontos para serem injetados em agentes de IA, que atuam como "digitadores especializados" sob controle total do desenvolvedor.
+O fluxo de trabalho segue a metodologia *Feature-Driven Specification*: o desenvolvedor cria um **Projeto**, dentro dele cadastra as **Funcionalidades**, e para cada funcionalidade preenche cinco camadas de documentação — Objetivo de Negócio, Regras de Negócio, Contrato de API, Casos de Teste e Regras do Framework. Somente após a aprovação formal de cada funcionalidade, o sistema libera a geração de um pacote `.zip` contendo artefatos Markdown estruturados e prontos para serem injetados em agentes de IA, que atuam como "digitadores especializados" sob controle total do desenvolvedor.
 
 ---
 
