@@ -84,3 +84,7 @@ src/
 | Bootstrap Icons | — | Ícones da interface |
 | JSZip | — | Geração do arquivo `.zip` |
 | file-saver | — | Download do arquivo no navegador |
+
+
+## Link do Vídeo de apresentação
+https://youtu.be/cuBcQxLQj8c
